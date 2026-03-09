@@ -1,0 +1,31 @@
+pais,sigla,populacao,continente
+Brazil,BR," 213,562,666 ",South America
+France,FR," 66,746,401 ",Europe
+Germany,DE," 83,644,258 ",Europe
+Spain,ES," 47,850,793 ",Europe
+Italy,IT," 58,926,166 ",Europe
+Portugal,PT," 10,395,362 ",Europe
+United States,US,331245890,North America
+Canada,CA," 40,467,728 ",North America
+Mexico,MX," 132,997,658 ",North America
+Argentina,AR," 46,003,734 ",South America
+Chile,CL," 19,945,850 ",South America
+Colombia,CO," 53,936,226 ",South America
+Peru,PE," 34,922,148 ",South America
+Japan,JP," 122,427,731 ",Asia
+China,CN," 1,412,914,089 ",Asia
+India,IN," 1,476,625,576 ",Asia
+South Korea,KR," 51,600,388 ",Asia
+Indonesia,ID," 287,886,782 ",Asia
+Australia,AU," 27,227,096 ",Oceania
+New Zealand,NZ," 5,287,479 ",Oceania
+South Africa,ZA," 65,453,084 ",Africa
+Egypt,EG," 120,101,175 ",Africa
+Nigeria,NG," 242,431,832 ",Africa
+Kenya,KE," 58,636,412 ",Africa
+Morocco,MA," 38,762,441 ",Africa
+Turkey,TR," 87,926,082 ",Europe/Asia
+Greece,GR," 9,897,115 ",Europe
+Netherlands,NL," 18,448,775 ",Europe
+Sweden,SE," 10,701,047 ",Europe
+Norway,NO," 5,652,989 ",Europe
