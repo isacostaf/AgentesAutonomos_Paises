@@ -1,0 +1,31 @@
+pais,sigla,populacao_antigo,continente,populacao_novo,alteracoes
+Brazil,BR,214563210,South America," 213,562,666 ",False
+France,FR,64873210,Europe," 66,746,401 ",False
+Germany,DE,83214560,Europe," 83,644,258 ",False
+Spain,ES,47219830,Europe," 47,850,793 ",False
+Italy,IT,58943210,Europe," 58,926,166 ",False
+Portugal,PT,10324560,Europe," 10,395,362 ",False
+United States,US,331245890,North America,,False
+Canada,CA,38123450,North America," 40,467,728 ",False
+Mexico,MX,126543210,North America," 132,997,658 ",False
+Argentina,AR,45782310,South America," 46,003,734 ",False
+Chile,CL,19234560,South America," 19,945,850 ",False
+Colombia,CO,51234560,South America," 53,936,226 ",False
+Peru,PE,33876540,South America," 34,922,148 ",False
+Japan,JP,123456780,Asia," 122,427,731 ",False
+China,CN,1412345670,Asia," 1,412,914,089 ",False
+India,IN,1398765430,Asia," 1,476,625,576 ",False
+South Korea,KR,51783450,Asia," 51,600,388 ",False
+Indonesia,ID,276543210,Asia," 287,886,782 ",False
+Australia,AU,25987650,Oceania," 27,227,096 ",False
+New Zealand,NZ,5123450,Oceania," 5,287,479 ",False
+South Africa,ZA,60234560,Africa," 65,453,084 ",False
+Egypt,EG,120101175,Africa," 120,101,175 ",False
+Nigeria,NG,223456780,Africa," 242,431,832 ",False
+Kenya,KE,54876540,Africa," 58,636,412 ",False
+Morocco,MA,37456210,Africa," 38,762,441 ",False
+Turkey,TR,85324560,Europe/Asia," 87,926,082 ",False
+Greece,GR,10345670,Europe," 9,897,115 ",False
+Netherlands,NL,17654320,Europe," 18,448,775 ",False
+Sweden,SE,10456780,Europe," 10,701,047 ",False
+Norway,NO,5543210,Europe," 5,652,989 ",False

@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 from coletar_paises import coletar_paises
 
+# ATENCAO
+# ainda eh necessario limpar os dados e deixar eles no mesmo formato
 # titulo
 st.title("Coletor de paises")
 
@@ -26,9 +28,12 @@ if st.button("Coletar dados"):
     df_web = pd.DataFrame(dados)
     df_meu = pd.read_csv("meu_dataset.csv")
 
+    # remove espacos no coemco e final do texto, pra gente ter ctz 
+    # # q os nomes dos paises sao o mesmo
     df_web["pais"] = df_web["pais"].str.strip()
     df_meu["pais"] = df_meu["pais"].str.strip()
 
+    # mostrar data frames na tela
     st.write(df_meu)
     st.write(df_web)
 
@@ -50,10 +55,8 @@ if st.button("Coletar dados"):
     # .fillna() = se for NaN → substitua por outro valor
     # "se populacao_novo estiver vazio
     # use populacao_antigo"
-    df_atualizado["populacao"] = df_atualizado["populacao_novo"].fillna(df_atualizado["populacao_antigo"])
-
-    # cria um df novo q eh apenas as colunas     quqeremos, tiramos as novas e as velhas
-    df_final = df_atualizado[["pais","sigla","populacao","continente"]]
+    # sai COMO TRUE OU FALSE
+    df_atualizado["alteracoes"] = df_atualizado["populacao_antigo"] == df_atualizado["populacao_novo"]
 
     # slva no csv
-    df_final.to_csv("dataset_atualizado.csv", index=False)
+    df_atualizado.to_csv("resultado.csv", index=False)

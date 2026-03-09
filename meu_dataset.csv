@@ -1,31 +1,31 @@
 pais,sigla,populacao,continente
-Brazil,BR,214563210,South America
-France,FR,64873210,Europe
-Germany,DE,83214560,Europe
-Spain,ES,47219830,Europe
-Italy,IT,58943210,Europe
-Portugal,PT,10324560,Europe
-United States,US,331245890,North America
-Canada,CA,38123450,North America
-Mexico,MX,126543210,North America
-Argentina,AR,45782310,South America
-Chile,CL,19234560,South America
-Colombia,CO,51234560,South America
-Peru,PE,33876540,South America
-Japan,JP,123456780,Asia
-China,CN,1412345670,Asia
-India,IN,1398765430,Asia
-South Korea,KR,51783450,Asia
-Indonesia,ID,276543210,Asia
-Australia,AU,25987650,Oceania
-New Zealand,NZ,5123450,Oceania
-South Africa,ZA,60234560,Africa
-Egypt,EG,110234560,Africa
-Nigeria,NG,223456780,Africa
-Kenya,KE,54876540,Africa
-Morocco,MA,37456210,Africa
-Turkey,TR,85324560,Europe/Asia
-Greece,GR,10345670,Europe
-Netherlands,NL,17654320,Europe
-Sweden,SE,10456780,Europe
-Norway,NO,5543210,Europe
+Brazil,BR," 214563210 ",South America
+France,FR," 64873210 ",Europe
+Germany,DE," 83214560 ",Europe
+Spain,ES," 47219830 ",Europe
+Italy,IT," 58943210 ",Europe
+Portugal,PT," 10324560 ",Europe
+United States,US," 331245890 ",North America
+Canada,CA," 38123450 ",North America
+Mexico,MX," 126543210 ",North America
+Argentina,AR," 45782310 ",South America
+Chile,CL," 19234560 ",South America
+Colombia,CO," 51234560 ",South America
+Peru,PE," 33876540 ",South America
+Japan,JP," 123456780 ",Asia
+China,CN," 1412345670 ",Asia
+India,IN," 1398765430 ",Asia
+South Korea,KR," 51783450 ",Asia
+Indonesia,ID," 276543210 ",Asia
+Australia,AU," 25987650 ",Oceania
+New Zealand,NZ," 5123450 ",Oceania
+South Africa,ZA," 60234560 ",Africa
+Egypt,EG," 120101175 ",Africa
+Nigeria,NG," 223456780 ",Africa
+Kenya,KE," 54876540 ",Africa
+Morocco,MA," 37456210 ",Africa
+Turkey,TR," 85324560 ",Europe/Asia
+Greece,GR," 10345670 ",Europe
+Netherlands,NL," 17654320 ",Europe
+Sweden,SE," 10456780 ",Europe
+Norway,NO," 5543210 ",Europe
